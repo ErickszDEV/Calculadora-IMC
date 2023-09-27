@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Erick Souza 😁
+## CALCULADORA DE IMC
 
  <div>
    <a href="https://github.com/ErickszDEV">
